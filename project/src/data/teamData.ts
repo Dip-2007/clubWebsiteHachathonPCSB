@@ -1,0 +1,91 @@
+import { TeamMember } from '../types';
+
+export const teamMembers: TeamMember[] = [
+  {
+    id: 1,
+    name: 'Alex Johnson',
+    role: 'Club President',
+    department: 'leadership',
+    image: 'https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com',
+      twitter: 'https://twitter.com'
+    }
+  },
+  {
+    id: 2,
+    name: 'Maya Rodriguez',
+    role: 'Vice President',
+    department: 'leadership',
+    image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    id: 3,
+    name: 'Raj Patel',
+    role: 'Technical Lead',
+    department: 'development',
+    image: 'https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    id: 4,
+    name: 'Sarah Kim',
+    role: 'Design Lead',
+    department: 'design',
+    image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com',
+      twitter: 'https://twitter.com'
+    }
+  },
+  {
+    id: 5,
+    name: 'Michael Chen',
+    role: 'Web Developer',
+    department: 'development',
+    image: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      github: 'https://github.com'
+    }
+  },
+  {
+    id: 6,
+    name: 'Emily Wilson',
+    role: 'Content Manager',
+    department: 'content',
+    image: 'https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com'
+    }
+  },
+  {
+    id: 7,
+    name: 'David Lagos',
+    role: 'AI Research Lead',
+    department: 'development',
+    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com'
+    }
+  },
+  {
+    id: 8,
+    name: 'Aisha Begum',
+    role: 'Outreach Coordinator',
+    department: 'outreach',
+    image: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=600',
+    socialLinks: {
+      linkedin: 'https://linkedin.com',
+      twitter: 'https://twitter.com'
+    }
+  }
+];
