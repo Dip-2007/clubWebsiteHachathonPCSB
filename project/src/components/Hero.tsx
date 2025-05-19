@@ -28,9 +28,9 @@ const Hero: React.FC = () => {
               <span className="text-primary-600 dark:text-primary-400 font-medium text-sm">Innovate. Create. Collaborate.</span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-heading text-gray-900 dark:text-white leading-tight mb-6">
-              Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-500 to-secondary-500">TechNova</span>
+              Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-500 to-secondary-500">codePICTure</span>
               <br />
-              <span className="text-3xl md:text-4xl lg:text-5xl">Where Innovation Meets Community</span>
+              <span className="text-3xl md:text-4xl lg:text-5xl">sWhere Innovation Meets Community</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl">
               A vibrant community of tech enthusiasts, developers, designers, and innovators coming together to learn, create, and shape the future of technology.
@@ -71,13 +71,13 @@ const Hero: React.FC = () => {
                     </div>
                     <div className="flex items-center bg-gray-100 dark:bg-gray-700 rounded-md px-3 py-1 text-xs text-gray-800 dark:text-gray-200">
                       <Code size={14} className="mr-1 text-primary-500" />
-                      TechNova.js
+                      codePICTure.js
                     </div>
                   </div>
                   
                   <pre className="text-xs sm:text-sm overflow-x-auto p-4 bg-gray-100 dark:bg-gray-900 rounded-lg">
                     <code className="language-javascript">
-                      <span className="text-blue-600 dark:text-blue-400">class</span> <span className="text-green-600 dark:text-green-400">TechNova</span> {'{'}
+                      <span className="text-blue-600 dark:text-blue-400">class</span> <span className="text-green-600 dark:text-green-400">codePICTure</span> {'{'}
                       <br />
                       {'  '}<span className="text-blue-600 dark:text-blue-400">constructor</span>() {'{'}
                       <br />
@@ -94,7 +94,7 @@ const Hero: React.FC = () => {
                       <br />
                       {'    '}this.<span className="text-purple-600 dark:text-purple-400">members</span>.push(member);
                       <br />
-                      {'    '}<span className="text-blue-600 dark:text-blue-400">return</span> <span className="text-red-600 dark:text-red-400">'Welcome to TechNova!'</span>;
+                      {'    '}<span className="text-blue-600 dark:text-blue-400">return</span> <span className="text-red-600 dark:text-red-400">'Welcome to codePICTure!'</span>;
                       <br />
                       {'  }{'}
                       <br />

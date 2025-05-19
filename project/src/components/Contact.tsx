@@ -140,7 +140,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <p className="text-white/70 text-sm">Email</p>
-                    <a href="mailto:info@technova.edu" className="hover:underline">info@technova.edu</a>
+                    <a href="mailto:info@technova.edu" className="hover:underline">info@codepicture.edu</a>
                   </div>
                 </div>
                 

@@ -6,7 +6,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Alex Johnson',
     role: 'Club President',
     department: 'leadership',
-    image: 'https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com',
       github: 'https://github.com',
@@ -18,7 +18,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Maya Rodriguez',
     role: 'Vice President',
     department: 'leadership',
-    image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com',
       github: 'https://github.com'
@@ -29,7 +29,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Raj Patel',
     role: 'Technical Lead',
     department: 'development',
-    image: 'https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com',
       github: 'https://github.com'
@@ -40,7 +40,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Sarah Kim',
     role: 'Design Lead',
     department: 'design',
-    image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com'
@@ -51,7 +51,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Michael Chen',
     role: 'Web Developer',
     department: 'development',
-    image: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       github: 'https://github.com'
     }
@@ -61,7 +61,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Emily Wilson',
     role: 'Content Manager',
     department: 'content',
-    image: 'https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com'
     }
@@ -71,7 +71,7 @@ export const teamMembers: TeamMember[] = [
     name: 'David Lagos',
     role: 'AI Research Lead',
     department: 'development',
-    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com',
       github: 'https://github.com'
@@ -82,7 +82,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Aisha Begum',
     role: 'Outreach Coordinator',
     department: 'outreach',
-    image: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://photosnow.net/wp-content/uploads/2024/04/no-dp-mood-off_9.jpg',
     socialLinks: {
       linkedin: 'https://linkedin.com',
       twitter: 'https://twitter.com'

@@ -43,11 +43,11 @@ const About: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl mx-auto text-center mb-16 animate-on-scroll opacity-0">
           <h2 className="text-3xl md:text-4xl font-bold font-heading text-gray-900 dark:text-white mb-4">
-            About <span className="text-primary-500">TechNova</span>
+            About <span className="text-primary-500">codePICTure</span>
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-secondary-500 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            Founded in 2022, TechNova is a student-run technical club dedicated to fostering innovation, learning, and collaboration in the field of technology.
+            Founded in 2022, codePICTure is a student-run technical club dedicated to fostering innovation, learning, and collaboration in the field of technology.
           </p>
         </div>
         
@@ -71,7 +71,7 @@ const About: React.FC = () => {
               Our Community
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-              TechNova brings together students from diverse academic backgrounds, including computer science, design, business, and engineering. This interdisciplinary approach fosters creative problem-solving and innovation.
+              codePICTure brings together students from diverse academic backgrounds, including computer science, design, business, and engineering. This interdisciplinary approach fosters creative problem-solving and innovation.
             </p>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
               Our community is built on values of inclusivity, collaboration, and continuous learning. We welcome students of all skill levels, from beginners taking their first steps in technology to experienced developers seeking to mentor others and enhance their leadership skills.

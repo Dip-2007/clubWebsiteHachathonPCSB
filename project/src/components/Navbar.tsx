@@ -57,9 +57,9 @@ const Navbar: React.FC = () => {
           <div className="flex-shrink-0 flex items-center">
             <a href="#home" className="flex items-center">
               <div className="h-8 w-8 rounded-full bg-gradient-to-r from-primary-500 to-secondary-500 flex items-center justify-center mr-2">
-                <span className="text-white font-bold text-xs">TN</span>
+                <span className="text-white font-bold text-xs">CP</span>
               </div>
-              <span className="text-gray-900 dark:text-white font-heading font-bold text-xl">TechNova</span>
+              <span className="text-gray-900 dark:text-white font-heading font-bold text-xl">codePICTure</span>
             </a>
           </div>
 

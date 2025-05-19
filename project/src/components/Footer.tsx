@@ -11,9 +11,9 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center mb-4">
               <div className="h-8 w-8 rounded-full bg-gradient-to-r from-primary-500 to-secondary-500 flex items-center justify-center mr-2">
-                <span className="text-white font-bold text-xs">TN</span>
+                <span className="text-white font-bold text-xs">CP</span>
               </div>
-              <span className="text-white font-heading font-bold text-xl">TechNova</span>
+              <span className="text-white font-heading font-bold text-xl">codePICTure</span>
             </div>
             <p className="text-gray-300 mb-4 pr-8">
               A community of passionate tech enthusiasts dedicated to innovation, learning, and collaboration.
@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
             <ul className="space-y-2">
               <li className="text-gray-300">
-                Tech Building, Room 305
+                PICT Campus,Dhankawadi Pune
               </li>
               <li className="text-gray-300">
                 University Campus
@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
                 <a href="tel:+1234567890" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">(123) 456-7890</a>
               </li>
               <li>
-                <a href="mailto:info@technova.edu" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">info@technova.edu</a>
+                <a href="mailto:info@technova.edu" className="text-gray-300 hover:text-primary-400 transition-colors duration-200">info@codepicture.edu</a>
               </li>
             </ul>
           </div>
@@ -89,10 +89,10 @@ const Footer: React.FC = () => {
         
         <div className="mt-12 pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-400 text-sm">
-            &copy; {currentYear} TechNova. All rights reserved.
+            &copy; {currentYear} codePICTure. All rights reserved.
           </p>
           <p className="text-gray-500 text-xs mt-2 flex items-center justify-center">
-            Made with <Heart size={12} className="mx-1 text-red-500" /> by TechNova Team
+            Made with <Heart size={12} className="mx-1 text-red-500" /> by codePICTure Team
           </p>
         </div>
       </div>
