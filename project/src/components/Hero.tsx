@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-heading text-gray-900 dark:text-white leading-tight mb-6">
               Welcome to <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-500 to-secondary-500">codePICTure</span>
               <br />
-              <span className="text-3xl md:text-4xl lg:text-5xl">sWhere Innovation Meets Community</span>
+              <span className="text-3xl md:text-4xl lg:text-5xl">Where Innovation Meets Community</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl">
               A vibrant community of tech enthusiasts, developers, designers, and innovators coming together to learn, create, and shape the future of technology.
